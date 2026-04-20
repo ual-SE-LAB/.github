@@ -40,8 +40,8 @@ XXX
 
 - [RMOS - Restaurant Menu and Ordering System](https://github.com/ual-SE-LAB/RMOS-Restaurant-Menu-and-Ordering)
 - [ALI -  Amazing Lunch Indicator](https://github.com/ual-SE-LAB/ALI-Amazing-Luch-Indicator) 
-- [Ecommerce - Online Bookstore](https://github.com/ual-SE-LAB/ECOMMERCE-Online-Bookstore) 
-- [Camp - Summer Camp](https://github.com/ual-SE-LAB/CAMP-Summer-Camp)
+- [ECOMMERCE - Online Bookstore](https://github.com/ual-SE-LAB/ECOMMERCE-Online-Bookstore) 
+- [CAMP - Summer Camp](https://github.com/ual-SE-LAB/CAMP-Summer-Camp)
 
 ### [Static automated analysis with SonarQube](https://sonarcloud.io/organizations/softeng-ual/projects)
 

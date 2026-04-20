@@ -47,4 +47,5 @@ XXX
 
 The deployments have been tested using:
   - Ubuntu 24.04.4 LTS -- Docker version 29.4.0, build 9d7ad9f
-  - Windows xxx -- Docker desktop and docker version 29.3.1, build c2be9cc
+  - Windows 11, 25H2  --  Docker desktop and docker version 29.3.1, build c2be9cc
+  - GitHub Codespaces  -- Some pop up are not accesible in this option

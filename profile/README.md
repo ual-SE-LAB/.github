@@ -1,6 +1,6 @@
 # Evaluating Large Language Models as Strategic Assistants for Agile Product Owners
 
-In this organization github users can found and reproduce the 
+This GitHub organization contains the accompanying replication package for the study **Evaluating Large Language Models as Strategic Assistants for Agile Product Owners**
 
 
 ## Proposed Methodology
@@ -46,6 +46,5 @@ XXX
 ### [Static automated analysis with SonarQube](https://sonarcloud.io/organizations/ual-se-lab/projects)
 
 The deployments have been tested using:
-  - Ubuntu 24.04.4 LTS -- Docker version 29.4.0, build 9d7ad9f
-  - Windows 11, 25H2  --  Docker desktop and docker version 29.3.1, build c2be9cc
-  - GitHub Codespaces  -- Some pop up are not accesible in this option
+  - Ubuntu 24.04.4 LTS -- Docker version 29.4.1, build 055a478
+  - GitHub Codespaces  -- Some pop up are not accesible in this option 
